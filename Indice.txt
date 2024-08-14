@@ -3,3 +3,4 @@ Capítulo 2: Flujo de Trabajo básico
 Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
 Capitulo 5: Paz se va a Brasil
+Capítulo 6 Hago cambios y creo Rama1 
