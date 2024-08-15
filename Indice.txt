@@ -3,3 +3,6 @@ Capítulo 2: Flujo de Trabajo básico
 Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
 Capitulo 5: Paz se va a Brasil
+Capítulo 6: La Bruja Maruja orograma un hechizo
+Capítulo 7: Acabo de crear la Rama 2
+
